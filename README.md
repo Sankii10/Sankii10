@@ -65,11 +65,13 @@ business decisions.
 
 <div align="center">
 
-| Project | Description | Tools | Link |
-|---|---|---|---|
-| 🌱 Renewable Energy Forecasting | Ridge Regression model forecasting 24hr green energy output — R² = 0.999998 | Python · Scikit-learn · Time Series | [View](https://github.com/Sankii10/PYTHON) |
-| 📊 Power BI Dashboards | Retail Sales, Supermart and Road Accident interactive dashboards with DAX and drillthrough reports | Power BI · DAX · Data Modelling | [View](https://github.com/Sankii10/powerbi) |
-| 🗄️ SQL Business Analytics | Business analytics queries covering sales analysis and operational reporting | MySQL · SQL | [View](https://github.com/Sankii10/SQL) |
+| Project | Domain | Description | Tools | Link |
+|---|---|---|---|---|
+| 🧑‍💼 IBM Employee Retention | HR Analytics | SVC classification model predicting employee attrition and identifying key retention drivers | Python · SVC · Scikit-learn | [View](https://github.com/Sankii10/PYTHON/blob/main/Classification/SVC/ibm_employee_retention_svc.py) |
+| 🍽️ Restaurant Sales Forecasting | Sales Analytics | Random Forest regression model forecasting restaurant sales to support revenue planning decisions | Python · Random Forest · Scikit-learn | [View](https://github.com/Sankii10/PYTHON/blob/main/Regression/Random_Forest/restaurant_sales_random_forest_regressor.py) |
+| 🛒 Shopper Behavior and Revenue Analysis | Retail Analytics | End-to-end EDA uncovering shopper behavior patterns and revenue drivers to support business decisions | Python · Pandas · Seaborn · Matplotlib | [View](https://github.com/Sankii10/PYTHON/blob/main/EDA/eda_shopper_behavior_revenue_analysis.py) |
+| 📊 Power BI Dashboards | Business Intelligence | Retail Sales, Supermart and Road Accident interactive dashboards with DAX and drillthrough reports | Power BI · DAX · Data Modelling | [View](https://github.com/Sankii10/powerbi) |
+| 🗄️ SQL HR Analytics | HR Analytics | SQL queries analyzing employee data, attrition patterns, department performance and salary insights | MySQL · SQL | [View](https://github.com/Sankii10/SQL) |
 
 </div>
 
