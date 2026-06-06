@@ -12,7 +12,8 @@
 <br>
 
 <p align="center">
-Ex-Capgemini Software Engineer with 2 years in Banking domain, 
+Ex-Capgemini Software Engineer with 2 years of IT experience,
+including exposure to the Financial Services domain,, 
 now focused on Business Analysis and Data Analytics. 
 MTech CSE from VIT Vellore and PGDM in Marketing and Analytics 
 from IMI Bhubaneswar.
